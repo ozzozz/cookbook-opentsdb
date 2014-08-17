@@ -15,8 +15,7 @@ For more details on OpenTSDB, see:
 
 ### Platforms
 
-* Debian 6.0.8
-* Ubuntu 10.04, 12.04
+* Ubuntu 10.04, 12.04, 14.04
 
 Pull requests for additional platforms welcomed!
 
